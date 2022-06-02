@@ -6,7 +6,7 @@
 
 const char* ssid     = ""; 
 const char* password = "";
-const char* server = "192.168.144.57";
+const char* server = "";
 const int port = 8090;
 char* key = "abcdefghijklmnop";
 
