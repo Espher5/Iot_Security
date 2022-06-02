@@ -4,8 +4,8 @@
 #include <WiFiClientSecure.h>
 #include <mbedtls/aes.h>
 
-const char* ssid     = "IotSec"; 
-const char* password = "vmum7999";
+const char* ssid     = ""; 
+const char* password = "";
 const char* server = "192.168.144.57";
 const int port = 8090;
 char* key = "abcdefghijklmnop";
