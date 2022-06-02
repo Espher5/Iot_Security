@@ -1,0 +1,8 @@
+Dear {name},
+
+This is an automated message generated from our security system.
+Recently, our sensors have detected some anomalies in the light levels and temperature in your home.
+
+Here are the measured values:
+	Light level: {light_level} lux
+	Temperature: {temperature} °C
